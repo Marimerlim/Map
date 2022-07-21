@@ -1,0 +1,22 @@
+img {
+  width: 100px;
+}
+body {
+  background-color: rgb(255, 144, 8);
+  color: rgb(88, 0, 0);
+
+  display: flex;
+  justify-content: center;
+}
+ul {
+  list-style-type: circle;
+  background-color: gold;
+  width: 120px;
+  padding: 0px 40px;
+}
+
+h1 {
+  color: rgb(255, 144, 8);
+  background-color: rgb(88, 0, 0);
+  text-align: center;
+}
